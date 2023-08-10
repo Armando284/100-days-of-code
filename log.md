@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: August 7, 2023
+### Day 0: August 9, 2023
 
 **Today's Progress**: Added function composition method to my terminal logs formatter project, it still doesn't work.
 
@@ -10,7 +10,7 @@
 
 **Link to work:** [Github Commit](https://github.com/Armando284/format-logs/commit/d781e47a8f64dc298148cbd5e51822f4e72abb97)
 
-### Day 1: August 8, 2023
+### Day 1: August 10, 2023
 
 **Today's Progress**: Fixed function composition on my npm package for terminal styling.
 
