@@ -19,3 +19,13 @@
 **Link to work:** [Log Formatter](https://www.npmjs.com/package/format-logs)
 
 **Link to work:** [Github Commit](https://github.com/Armando284/format-logs/commit/afd852be61364421a0bfe17312f61658f51edd44)
+
+### Day 2: August 11, 2023
+
+**Today's Progress**: I did a bunch of Codewars exercises, "katas", those are quite fun. I am also starting an Angular survey app, questions will be related to programmers knowledge of JavaScript.
+
+**Thoughts:** Even when katas are fun I think they are not as difficult as Leetcode or Hackerrank tests, also the difficulty ranking of the katas it's a bit weird there are 4kyu katas that are easier than 5kyu katas. Setting the environment for Angular from 0 it's quite difficult with bad internet, I hope people like the app and respond the questions in an honest way.
+
+**Link to work:** [Katas](https://www.codewars.com/users/Armando284/completed)
+
+**Link to work:** [Programmer Level Survey](https://github.com/Armando284/programmer-level-survey)
