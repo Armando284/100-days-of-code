@@ -29,3 +29,11 @@
 **Link to work:** [Katas](https://www.codewars.com/users/Armando284/completed)
 
 **Link to work:** [Programmer Level Survey](https://github.com/Armando284/programmer-level-survey)
+
+### Day 3: August 12, 2023
+
+**Today's Progress**: I create the base of my Javascript level survey.
+
+**Thoughts:** It's impressive how fast you can forget the things you don't practice all the time I needed to search the routing system of Angular and how to pass data from parent to children components. What a shame 😞. I want to add linting, angular material and deploy it to vercel when I am at a level I can show it to people.
+
+**Link to work:** [Programmer Level Survey](https://github.com/Armando284/programmer-level-survey)
