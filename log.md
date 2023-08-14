@@ -37,3 +37,11 @@
 **Thoughts:** It's impressive how fast you can forget the things you don't practice all the time I needed to search the routing system of Angular and how to pass data from parent to children components. What a shame 😞. I want to add linting, angular material and deploy it to vercel when I am at a level I can show it to people.
 
 **Link to work:** [Programmer Level Survey](https://github.com/Armando284/programmer-level-survey)
+
+### Day 4: August 13, 2023
+
+**Today's Progress**: I Angular Material to stylize my survey and stated working on the design of it.
+
+**Thoughts:** It's really good to use Angular Material but it doesn't have as many components as Bootstrap and it's more difficult to get access to it's theme variables, thanks to ChatGPT for showing me how to do it.
+
+**Link to work:** [Programmer Level Survey](https://github.com/Armando284/programmer-level-survey)
