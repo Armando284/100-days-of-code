@@ -45,3 +45,19 @@
 **Thoughts:** It's really good to use Angular Material but it doesn't have as many components as Bootstrap and it's more difficult to get access to it's theme variables, thanks to ChatGPT for showing me how to do it.
 
 **Link to work:** [Programmer Level Survey](https://github.com/Armando284/programmer-level-survey)
+
+### Day 5: August 14, 2023
+
+**Today's Progress**: I added style to questions and page in general, I've also solved more questions from CodeWars.
+
+**Thoughts:** Adding style without a previous design tends to be quite difficult, specially if I want to create something attractive.
+
+**Link to work:** [Programmer Level Survey](https://github.com/Armando284/programmer-level-survey/commit/a53a7718491100084eb63028f61a69b1eda66e2f)
+
+### Day 6: August 15, 2023
+
+**Today's Progress**: I started working on the algorithm of the evaluation of the questions it self.
+
+**Thoughts:** I am thinking about adding charts and other visual media so users can get a better way to understand their points.
+
+**Link to work:** [Programmer Level Survey](https://github.com/Armando284/programmer-level-survey/commit/d71e2f866aeba10534dcac73a88eea8becd5aba2)
