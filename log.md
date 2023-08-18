@@ -61,3 +61,19 @@
 **Thoughts:** I am thinking about adding charts and other visual media so users can get a better way to understand their points.
 
 **Link to work:** [Programmer Level Survey](https://github.com/Armando284/programmer-level-survey/commit/d71e2f866aeba10534dcac73a88eea8becd5aba2)
+
+### Day 7: August 16, 2023
+
+**Today's Progress**: I finished the questions evaluation algorithm.
+
+**Thoughts:** I am thinking about adding a results page that is separated from the actual survey, this will make it more difficult to change answers in place to improve results.
+
+**Link to work:** [Programmer Level Survey](https://github.com/Armando284/programmer-level-survey/commit/8576cb767e3ccd40d16cb522d78344aba77c47a5)
+
+### Day 8: August 17, 2023
+
+**Today's Progress**: I added a service to handle the results and a new component to show them.
+
+**Thoughts:** This last days electricity and internet issues has affected my work and the time I spend in the challenge I hope I can dedicate more time to it in the days to come.
+
+**Link to work:** [Programmer Level Survey](https://github.com/Armando284/programmer-level-survey/commit/37a85cd3c9a9c6ee70358b3ae1bad4dd8531455d)
